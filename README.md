@@ -50,7 +50,7 @@ This project is intended to demonstrate good RTL design practices, functional ve
 # Architecture / Block Diagram
 
 <p align="center">
-  <img src="Block Diagram.png" width="900"/>
+  <img src="docs/Block Diagram.png" width="900"/>
 </p>
 
 # Folder Structure
