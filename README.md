@@ -50,7 +50,7 @@ This project is intended to demonstrate good RTL design practices, functional ve
 # Architecture / Block Diagram
 
 <p align="center">
-  <img src="docs/Block Diagram.png" width="900"/>
+  <img src="Block Diagram.png" width="900"/>
 </p>
 
 # Folder Structure
@@ -114,25 +114,25 @@ VeriALU/
 ## Simulation Waveform
 
 <p align="center">
-  <img src="docs/Simulation Waveform.png" alt="Simulation Waveform" width="1000"/>
+  <img src="Simulation Waveform.png" alt="Simulation Waveform" width="1000"/>
 </p>
 
 ## Simulation Console
 
 <p align="center">
-  <img src="docs/Simulation Console.png" alt="Simulation Console Output" width="1000"/>
+  <img src="Simulation Console.png" alt="Simulation Console Output" width="1000"/>
 </p>
 
 ## RTL Schematic
 
 <p align="center">
-  <img src="docs/RTL_Schematic.pdf" alt="RTL Schematic" width="1000"/>
+  <img src="RTL_Schematic.pdf" alt="RTL Schematic" width="1000"/>
 </p>
 
 ## 📈 FPGA Resource Utilization
 
 <p align="center">
-  <img src="docs/Utilization_Report.png" alt="FPGA Resource Utilization" width="1000"/>
+  <img src="Utilization_Report.png" alt="FPGA Resource Utilization" width="1000"/>
 </p>
 
 ### Resource Summary
@@ -146,7 +146,7 @@ VeriALU/
 ## Timing Summary
 
 <p align="center">
-  <img src="docs/Timing Summary.png" alt="Timing Summary" width="1000"/>
+  <img src="Timing Summary.png" alt="Timing Summary" width="1000"/>
 </p>
 
 ### Timing Results
